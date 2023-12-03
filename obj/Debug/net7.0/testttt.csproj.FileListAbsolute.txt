@@ -1,0 +1,14 @@
+D:\Programming\testttt\obj\Debug\net7.0\testttt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\testttt\obj\Debug\net7.0\testttt.AssemblyInfoInputs.cache
+D:\Programming\testttt\obj\Debug\net7.0\testttt.AssemblyInfo.cs
+D:\Programming\testttt\obj\Debug\net7.0\testttt.csproj.CoreCompileInputs.cache
+D:\Programming\testttt\bin\Debug\net7.0\testttt.exe
+D:\Programming\testttt\bin\Debug\net7.0\testttt.deps.json
+D:\Programming\testttt\bin\Debug\net7.0\testttt.runtimeconfig.json
+D:\Programming\testttt\bin\Debug\net7.0\testttt.dll
+D:\Programming\testttt\bin\Debug\net7.0\testttt.pdb
+D:\Programming\testttt\obj\Debug\net7.0\testttt.dll
+D:\Programming\testttt\obj\Debug\net7.0\refint\testttt.dll
+D:\Programming\testttt\obj\Debug\net7.0\testttt.pdb
+D:\Programming\testttt\obj\Debug\net7.0\testttt.genruntimeconfig.cache
+D:\Programming\testttt\obj\Debug\net7.0\ref\testttt.dll
